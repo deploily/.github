@@ -5,7 +5,7 @@
    <img src="https://console.deploily.cloud/_next/image?url=%2Fimages%2Flogo_name.png&w=1920&q=75" alt="Logo">
   </a>
 
-  <h3 align="center">Transformatek SARL</h3>
+  <h3 align="center">By SARL <a href="https://transformatek.dz">Transformatek</a></h3>
 </p>
 
 Based in Ain Temouchent, [TransformaTek](https://transformatek.dz) is developing an innovative cloud proxy solution to revolutionize application deployment for startups. Our goal? To simplify deployments while providing local alternatives to expensive foreign APIs like Google Maps.
