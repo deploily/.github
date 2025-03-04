@@ -1,5 +1,13 @@
 # Deploily
 
+<p align="center">
+  <a href="https://deploily.cloud">
+   <img src="https://console.deploily.cloud/_next/image?url=%2Fimages%2Flogo_name.png&w=1920&q=75" alt="Logo">
+  </a>
+
+  <h3 align="center">Transformatek SARL</h3>
+</p>
+
 Based in Ain Temouchent, [TransformaTek](https://transformatek.dz) is developing an innovative cloud proxy solution to revolutionize application deployment for startups. Our goal? To simplify deployments while providing local alternatives to expensive foreign APIs like Google Maps.
 
 To ensure compliance with Algerian data protection regulations, we're seeking strategic partnerships with national cloud providers. This will enable us to offer local hosting alongside redundant systems that guarantee high availability and scalability for our clients.
@@ -9,3 +17,15 @@ To ensure compliance with Algerian data protection regulations, we're seeking st
 🎉 Open Source for the Community
 
 We believe in collaboration and innovation. That's why Deploily will be fully open source—empowering the Algerian tech community to thrive!
+
+## Our partners 
+
+<p align="center">
+  <a href="https://issal.dz">
+    <img
+      style="width: 250px; height: 54px;" width="250" height="54"
+      alt="ISSAL.NET"
+      src="https://issal.dz/wp-content/uploads/2023/12/Logo-issal-white.png"
+    />
+  </a>
+</p>
