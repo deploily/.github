@@ -23,7 +23,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 <p align="center">
   <a href="https://issal.dz">
     <img
-      style="width: 250px; height: 54px;" width="250" height="54"
+      style="width: 200px; height: 200px;" width="200" height="200"
       alt="ISSAL.NET"
       src="https://deploily.cloud/images/issal_logo.png"
     />
