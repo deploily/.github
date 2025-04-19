@@ -25,6 +25,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
       alt="ISSAL.NET"
+      target=´´_blank’’
       src="https://deploily.cloud/images/issal_logo.png"
     />
   </a>
@@ -33,6 +34,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
       alt="CENTRAL TEST AGENCY"
+      target=´´_blank’’
       src="https://deploily.cloud/images/central-test-agency.jpeg"
     />
   </a>
