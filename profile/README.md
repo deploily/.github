@@ -29,7 +29,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/central-test-agengy/"  target="_blank">
+  <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
       alt="CENTRAL TEST AGENCY"
