@@ -28,4 +28,11 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
       src="https://deploily.cloud/images/issal_logo.png"
     />
   </a>
+    <a href="https://www.linkedin.com/company/central-test-agengy/">
+    <img
+      style="width: 200px; height: 200px;" width="200" height="200"
+      alt="CENTRAL TEST AGENCY"
+      src="https://deploily.cloud/images/central-test-agency.jpeg"
+    />
+  </a>
 </p>
