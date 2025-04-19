@@ -21,20 +21,18 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 ## Our partners 
 
 <p align="center">
-  <a href="https://issal.dz">
+  <a href="https://issal.dz" target="_blank">
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
       alt="ISSAL.NET"
-      target=´´_blank’’
       src="https://deploily.cloud/images/issal_logo.png"
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/central-test-agengy/">
+  <a href="https://www.linkedin.com/company/central-test-agengy/"  target="_blank">
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
       alt="CENTRAL TEST AGENCY"
-      target=´´_blank’’
       src="https://deploily.cloud/images/central-test-agency.jpeg"
     />
   </a>
