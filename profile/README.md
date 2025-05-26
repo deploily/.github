@@ -21,7 +21,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 
 <p align="center">
 
-<table>
+<table width="100%" border="0">
   <tr>
     <td align="center">
       <a href="https://issal.dz" target="_blank">
