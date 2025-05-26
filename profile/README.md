@@ -29,6 +29,22 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     />
   </a>
   &nbsp;&nbsp;
+  <a href="https://adexcloud.dz/" target="_blank">
+    <img
+      style="width: 200px; height: 200px;" width="200" height="200"
+      alt="ADEX CLOUD"
+      src="https://deploily.cloud/images/adex_logo.png"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://icosnet.com.dz/" target="_blank">
+    <img
+      style="width: 200px; height: 200px;" width="200" height="200"
+      alt="ICOSNET"
+      src="https://deploily.cloud/images/icosnet_logo.png"
+    />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
     <img
       style="width: 200px; height: 200px;" width="200" height="200"
