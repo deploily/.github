@@ -17,48 +17,34 @@ To ensure compliance with Algerian data protection regulations, we're seeking st
 🎉 Open Source for the Community
 
 We believe in collaboration and innovation. That's why Deploily will be fully open source—empowering the Algerian tech community to thrive!
+## Our partners
 
-## Our partners 
 <p align="center">
-<div style="display: flex;">
-  <div style="width:150px;height:150px">
-    <a href="https://issal.dz" target="_blank">
-      <img
-        style="height:100px;object-fit:contain" width="150" height="100"
-        alt="ISSAL.NET"
-        src="https://deploily.cloud/images/issal_logo.png"
-      />
-    </a>
-  </div>
-  &nbsp;&nbsp;
-  <div style="width:150px;height:150px">
-    <a href="https://adexcloud.dz/" target="_blank">
-      <img
-        style="height:100px;object-fit:contain" width="150" height="100"
-        alt="ADEX CLOUD"
-        src="https://deploily.cloud/images/adex_logo.png"
-      />
-    </a>
-  </div> 
-  &nbsp;&nbsp;
-  <div style="width:150px;height:150px">
-    <a href="https://icosnet.com.dz/" target="_blank">
-      <img
-        style="height:100px;object-fit:contain" width="150" height="100"
-        alt="ICOSNET"
-        src="https://deploily.cloud/images/icosnet_logo.png"
-      />
-    </a>
-  </div>
-  &nbsp;&nbsp;
-  <div style="width:150px;height:150px">
-    <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
-      <img
-        style="height:100px;object-fit:contain" width="150" height="100"
-        alt="CENTRAL TEST AGENCY"
-        src="https://deploily.cloud/images/central-test-agency.jpeg"
-      />
-    </a>
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://issal.dz" target="_blank">
+        <img src="https://deploily.cloud/images/issal_logo.png" alt="ISSAL.NET" width="150" height="100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://adexcloud.dz/" target="_blank">
+        <img src="https://deploily.cloud/images/adex_logo.png" alt="ADEX CLOUD" width="150" height="100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://icosnet.com.dz/" target="_blank">
+        <img src="https://deploily.cloud/images/icosnet_logo.png" alt="ICOSNET" width="150" height="100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
+        <img src="https://deploily.cloud/images/central-test-agency.jpeg" alt="CENTRAL TEST AGENCY" width="150" height="100" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </p>
+
