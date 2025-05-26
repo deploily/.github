@@ -21,35 +21,43 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 ## Our partners 
 
 <p align="center">
-  <a href="https://issal.dz" target="_blank">
-    <img
-      style="width: 150px; height: 100px;" width="150" height="100"
-      alt="ISSAL.NET"
-      src="https://deploily.cloud/images/issal_logo.png"
-    />
-  </a>
+  <div style="width:150px;height:100px">
+    <a href="https://issal.dz" target="_blank">
+      <img
+        style="height:100px;object-fit:contain" width="150" height="100"
+        alt="ISSAL.NET"
+        src="https://deploily.cloud/images/issal_logo.png"
+      />
+    </a>
+  </div>
   &nbsp;&nbsp;
-  <a href="https://adexcloud.dz/" target="_blank">
-    <img
-      style="width: 150px; height: 100px;" width="150" height="100"
-      alt="ADEX CLOUD"
-      src="https://deploily.cloud/images/adex_logo.png"
-    />
-  </a>
+  <div style="width:150px;height:100px">
+    <a href="https://adexcloud.dz/" target="_blank">
+      <img
+        style="height:100px;object-fit:contain" width="150" height="100"
+        alt="ADEX CLOUD"
+        src="https://deploily.cloud/images/adex_logo.png"
+      />
+    </a>
+  </div> 
   &nbsp;&nbsp;
-  <a href="https://icosnet.com.dz/" target="_blank">
-    <img
-      style="width: 150px; height: 100px;" width="150" height="100"
-      alt="ICOSNET"
-      src="https://deploily.cloud/images/icosnet_logo.png"
-    />
-  </a>
+  <div style="width:150px;height:100px">
+    <a href="https://icosnet.com.dz/" target="_blank">
+      <img
+        style="height:100px;object-fit:contain" width="150" height="100"
+        alt="ICOSNET"
+        src="https://deploily.cloud/images/icosnet_logo.png"
+      />
+    </a>
+  </div>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
-    <img
-      style="width: 150px; height: 100px;" width="150" height="100"
-      alt="CENTRAL TEST AGENCY"
-      src="https://deploily.cloud/images/central-test-agency.jpeg"
-    />
-  </a>
+  <div style="width:150px;height:100px">
+    <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
+      <img
+        style="height:100px;object-fit:contain" width="150" height="100"
+        alt="CENTRAL TEST AGENCY"
+        src="https://deploily.cloud/images/central-test-agency.jpeg"
+      />
+    </a>
+  </div>
 </p>
