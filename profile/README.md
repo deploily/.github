@@ -21,7 +21,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 ## Our partners 
 
 <p align="center">
-  <div style="width:150px;height:100px">
+  <div style="width:150px;height:150px">
     <a href="https://issal.dz" target="_blank">
       <img
         style="height:100px;object-fit:contain" width="150" height="100"
@@ -31,7 +31,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     </a>
   </div>
   &nbsp;&nbsp;
-  <div style="width:150px;height:100px">
+  <div style="width:150px;height:150px">
     <a href="https://adexcloud.dz/" target="_blank">
       <img
         style="height:100px;object-fit:contain" width="150" height="100"
@@ -41,7 +41,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     </a>
   </div> 
   &nbsp;&nbsp;
-  <div style="width:150px;height:100px">
+  <div style="width:150px;height:150px">
     <a href="https://icosnet.com.dz/" target="_blank">
       <img
         style="height:100px;object-fit:contain" width="150" height="100"
@@ -51,7 +51,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     </a>
   </div>
   &nbsp;&nbsp;
-  <div style="width:150px;height:100px">
+  <div style="width:150px;height:150px">
     <a href="https://www.linkedin.com/company/central-test-agengy/" target="_blank">
       <img
         style="height:100px;object-fit:contain" width="150" height="100"
