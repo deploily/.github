@@ -19,7 +19,7 @@ To ensure compliance with Algerian data protection regulations, we're seeking st
 We believe in collaboration and innovation. That's why Deploily will be fully open source—empowering the Algerian tech community to thrive!
 
 ## Our partners 
-
+<p align="center">
 <div style="display: flex;">
   <div style="width:150px;height:150px">
     <a href="https://issal.dz" target="_blank">
@@ -61,3 +61,4 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     </a>
   </div>
 </div>
+</p>
