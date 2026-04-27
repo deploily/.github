@@ -19,6 +19,7 @@ To ensure compliance with Algerian data protection regulations, we're seeking st
 We believe in collaboration and innovation. That's why Deploily will be fully open source—empowering the Algerian tech community to thrive!
 ## Our partners
 
+### Data centers
 <p align="center">
   <table>
     <tr>
@@ -44,7 +45,10 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
       </td>
     </tr>
   </table>
-  <br/>
+</p>
+
+### Cloud services providers
+<p align="center">
   <table>
     <tr>
       <td bgcolor="white" align="center">
@@ -64,7 +68,10 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
       </td>
     </tr>
   </table>
-  <br/>
+</p>
+
+### Business partners 
+<p align="center">
   <table>
     <tr>
       <td bgcolor="white" align="center">
@@ -75,4 +82,3 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
     </tr>
   </table>
 </p>
-
