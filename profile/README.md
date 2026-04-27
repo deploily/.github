@@ -21,19 +21,19 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 
 <p align="center">
   <a href="https://issal.dz" target="_blank">
-    <img src="https://deploily.cloud/images/logo_issal.png" alt="ISSAL.NET" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_issal.png" alt="ISSAL.NET" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://adexcloud.dz/" target="_blank">
-    <img src="https://deploily.cloud/images/logo_adex.png" alt="ADEX CLOUD" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_adex.png" alt="ADEX CLOUD" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://icosnet.com.dz/" target="_blank">
-    <img src="https://deploily.cloud/images/logo_icosnet.png" alt="ICOSNET" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_icosnet.png" alt="ICOSNET" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ayrade.com/" target="_blank">
-    <img src="https://deploily.cloud/images/logo_ayrade.png" alt="AYRADE" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_ayrade.png" alt="AYRADE" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://octenium.com/" target="_blank">
@@ -41,15 +41,15 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
   </a>
   &nbsp;&nbsp;
   <a href="https://openscaler.net/" target="_blank">
-    <img src="https://deploily.cloud/images/logo_openscaler.png" alt="OpenScaler" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_openscaler.png" alt="OpenScaler" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ai-grid.io/" target="_blank">
-    <img src="https://deploily.cloud/images/logo_aigrid.png" alt="AI Grid" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_aigrid.png" alt="AI Grid" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.centraltestagency.com" target="_blank">
-    <img src="https://deploily.cloud/images/logo_cta.jpeg" alt="CENTRAL TEST AGENCY" width="150" height="100" />
+    <img src="https://deploily.cloud/images/logo_cta.jpeg" alt="CENTRAL TEST AGENCY" width="150" height="150" />
   </a>
 </p>
 
