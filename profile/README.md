@@ -43,6 +43,9 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
         </a>
       </td>
     </tr>
+  </table>
+  <br/>
+  <table>
     <tr>
       <td bgcolor="white" align="center">
         <a href="https://octenium.com/" target="_blank">
@@ -60,6 +63,9 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
         </a>
       </td>
     </tr>
+  </table>
+  <br/>
+  <table>
     <tr>
       <td bgcolor="white" align="center">
         <a href="https://www.centraltestagency.com" target="_blank">
