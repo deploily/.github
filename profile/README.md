@@ -20,7 +20,7 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
 ## Our partners
 
 <p align="center">
-  <a href="https://issal.dz" target="_blank" style="backgroud-color=white">
+  <a href="https://issal.dz" target="_blank" style="background-color:white;">
     <img src="https://deploily.cloud/images/logo_issal.png" alt="ISSAL.NET" width="150" height="150" />
   </a>
   &nbsp;&nbsp;
