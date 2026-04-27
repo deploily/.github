@@ -42,9 +42,11 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
           <img src="https://deploily.cloud/images/logo_ayrade.png" alt="AYRADE" width="150" height="150" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td bgcolor="white" align="center">
         <a href="https://octenium.com/" target="_blank">
-          <img src="https://deploily.cloud/images/logo_octenium.png" alt="OCTENIUM" width="150" height="100" />
+          <img src="https://deploily.cloud/images/logo_octenium.png" alt="OCTENIUM" width="150" height="44" />
         </a>
       </td>
       <td bgcolor="white" align="center">
@@ -57,6 +59,8 @@ We believe in collaboration and innovation. That's why Deploily will be fully op
           <img src="https://deploily.cloud/images/logo_aigrid.png" alt="AI Grid" width="150" height="150" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td bgcolor="white" align="center">
         <a href="https://www.centraltestagency.com" target="_blank">
           <img src="https://deploily.cloud/images/logo_cta.jpeg" alt="CENTRAL TEST AGENCY" width="150" height="150" />
